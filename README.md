@@ -27,4 +27,20 @@ A Express.js API internet retail e-commerce application
 
 # Screen Captions
 
+![Initalize mysql](/images/InitalSetup.png)
+![Get all](/images/GETall.png)
+![GET by Id](/images/GETId.png)
+![Post](/images/POST.png)
+
+# Technologies Used
+
+- Node.js
+- Express.js
+- MySQL
+- Sequelize
+- Dotenv
+
+# Output
+
+- The output of this week challenge was to build back end e-commerce site
 
